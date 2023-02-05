@@ -1,0 +1,28 @@
+* {
+    background-color: #DCF5F6;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color:rgb(76, 76, 76)
+}
+
+h2 {
+    font-size: 25px
+}
+
+img {
+    border-radius: 20px;
+    box-shadow: 20px
+}
+
+.highlight-content{
+    background-color: red;
+}
+
+p.highlight-content{
+    background-color: rgb(212, 228, 234);
+    font-family: 'Times New Roman', Times, serif;
+}
